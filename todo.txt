@@ -1,0 +1,3 @@
+Launching lib\main.dart on Android SDK built for x86 in debug mode...
+Built build\app\outputs\apk\debug\app-debug.apk.
+F/flutter (29609): [FATAL:flutter/shell/platform/android/library_loader.cc(20)] Check failed: result.
