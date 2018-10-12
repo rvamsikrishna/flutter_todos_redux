@@ -103,7 +103,7 @@ class _MyTabBar extends StatelessWidget {
       controller: _tabController,
       tabs: _tabs.toList(),
       labelColor: Colors.black,
-      // labelPadding: EdgeInsets.all(0.0),
+      labelPadding: EdgeInsets.all(0.0),
       labelStyle: Theme.of(context).textTheme.body2,
       unselectedLabelColor: Colors.grey,
     );
