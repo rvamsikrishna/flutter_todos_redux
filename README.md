@@ -6,7 +6,7 @@ A Flutter hobby project using redux for state management. The UI has been inspir
 
 ![GIF](https://cdn.dribbble.com/users/673583/screenshots/5261578/dribbble1.gif)
 
-![home page](https://lh3.googleusercontent.com/ajupf-ZQllLf5TIfWjSJ6pOQTMtqKDue_r-yo6MLkFXCDNFjcAscMxq2rt0XHo6YMiYCbKmdPEuH) ![add todo](https://lh3.googleusercontent.com/S9dZ0BG9P_M7GbczeIM2tQ5T2wUNWXyw_Vg0fj_RfUGZS-A98tAfAY6nCtzfcOUqNUB5YywVXcp3)
+![home page](https://i.imgur.com/u5GcRmU.png) ![add todo](https://i.imgur.com/aHdVLVG.png)
 
 I have been playing with flutter for about 3 weeks(sep 2018). This is my very first flutter app I built to check out the framework. The codebase is not well structured and also can be coded better. It is me just playing with the framework and quickly prototyping a working app.
 
